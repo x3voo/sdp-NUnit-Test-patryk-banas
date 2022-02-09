@@ -1,0 +1,12 @@
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\bin\Debug\net5.0\PrimeLib.deps.json
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\bin\Debug\net5.0\PrimeLib.dll
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\bin\Debug\net5.0\ref\PrimeLib.dll
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\bin\Debug\net5.0\PrimeLib.pdb
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.csproj.AssemblyReference.cache
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.AssemblyInfoInputs.cache
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.AssemblyInfo.cs
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.csproj.CoreCompileInputs.cache
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.dll
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\ref\PrimeLib.dll
+D:\POLITECHNIKA\PRAKTYKI\zad9\sdp-NUnit-Test-patryk-banas\PrimeLib\obj\Debug\net5.0\PrimeLib.pdb
